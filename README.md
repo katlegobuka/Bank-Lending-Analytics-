@@ -53,31 +53,6 @@ The dashboard is designed to uncover insights such as:
 * Relationships between borrower characteristics and lending outcomes.
 * Trends in funded amounts and repayments.
 
-Add your actual findings here after completing your analysis.
-
-Dashboard Preview
-
-Add screenshots of your completed dashboard here to showcase the visualizations and key insights.
-
-Example:
-
-![Bank Lending Dashboard](images/bank-lending-dashboard.png)
-
-Project Structure
-
-bank-lending-dashboard/
-│
-├── data/
-│   └── lending_dataset.xlsx
-│
-├── images/
-│   └── bank-lending-dashboard.png
-│
-├── bank-lending-dashboard.pbix
-└── README.md
-
-Update the filenames and folders to match your actual repository.
-
 Business Value
 
 This project demonstrates how data analytics can help financial institutions understand lending performance, monitor repayment outcomes, identify potential credit risks, and make informed lending decisions.
@@ -87,8 +62,3 @@ Katlego Buka
 
 Aspiring Data Analyst | Power BI | Excel | Data Visualization
 
-Connect with me on LinkedIn.
-
-⸻
-
-⭐ If you find this project interesting, feel free to explore the repository and share your feedback.
